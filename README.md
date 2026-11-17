@@ -14,4 +14,4 @@ Kompletny system do sterowania botami (`autobot_v13.py` oraz `blackcat_hunter_v1
    ```bash
    nohup python blackcat_bridge.py > bridge.log 2>&1 &
    ```
-3. Otwórz zainstalowaną aplikację **Black Cat Control** na telefonie i przełączaj funkcje jednym kliknięciem!
+3. Otwórz zainstalowaną aplikację **Black Cat Control** na telefonie i przełączaj funkcje jednym kliknięciem!.
